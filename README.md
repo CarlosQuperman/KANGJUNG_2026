@@ -8,8 +8,9 @@ https://gw1.kr/kanggohuman
 
 # 출석 QR 코드
 
-<img src="/출석 QR.jpg">
-https://dxcheck.kr/e5ca0e27-7a72-42f0-a8b8-242699293c54
+https://dxcheck.kr/faa1231a-33a3-44f9-ae4e-b5f841ab10bb
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/58f3334f-fe2e-4e37-b2df-3c1d8d749f53" />
+
 
 # 안녕하세요 강원중학교 찾아가는 학교 컨설팅 인문교과 
 #1) GIS_STUDIO를 이용한 지리 정보 시각화 분석
@@ -42,8 +43,20 @@ https://dxcheck.kr/e5ca0e27-7a72-42f0-a8b8-242699293c54
 * 학생 실습 자료 3 : https://docs.google.com/document/d/1zw8F3GNfIWS3yxsaqc3gOwTC7m7Dy4iWVZsWRwST9OI/edit?tab=t.0
 
 
+
+
+
+
+
 # 종료 QR 코드 (+만족도 조사 코드)
-<img src="/만족도 QR.png">
-https://walla.my/v/jyx6wWGegBf2aaw4Yc24
-<img src="/종료 QR.png">
-https://dxcheck.kr/e5ca0e27-7a72-42f0-a8b8-242699293c54
+
+https://dxcheck.kr/faa1231a-33a3-44f9-ae4e-b5f841ab10bb
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/58f3334f-fe2e-4e37-b2df-3c1d8d749f53" />
+
+https://walla.my/v/HgFyobTveel3lEgVlPuL
+<img width="200" height="200" alt="qrcode" src="https://github.com/user-attachments/assets/77419029-fc4d-4fc1-8f63-e58b2cee3d93" />
+
+
+
+
+
