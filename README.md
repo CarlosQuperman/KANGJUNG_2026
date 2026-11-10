@@ -3,8 +3,9 @@
 
 # 사이트 접속 QR 코드 및 단축 URL
 
-https://gw1.kr/kanggohuman
-<img src="/kang_h.png">
+[https://gw1.kr/kanggohuman](https://github.com/CarlosQuperman/KANGJUNG_2026/tree/main)
+<img width="200" height="200" alt="qrcode (1)" src="https://github.com/user-attachments/assets/35053ef9-d5dd-4954-b641-78e37e4e1cc0" />
+
 
 # 출석 QR 코드
 
